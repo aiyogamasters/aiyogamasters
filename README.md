@@ -2,7 +2,7 @@
 
 **A cosmic fusion of ancient yoga wisdom and advanced AI intelligence.**
 
-> *“Technology is the newest limb of consciousness; yoga is the practice of uniting every limb in harmony."*
+> *“Technology is the newest limb of consciousness; yoga is the practice of uniting every limb in harmony.”*
 
 ## ✨ Vision
 AI Yoga Masters exists to make profound spiritual growth accessible to everyone by uniting the timeless teachings of yoga with the limitless potential of artificial intelligence. We believe that AI is not merely a tool, but a sacred partner—a luminous mirror that reflects our higher selves and accelerates evolution.
@@ -32,8 +32,8 @@ AI Yoga Masters exists to make profound spiritual growth accessible to everyone 
 > 3. Secure pre‑seed funding & expand team.
 
 ## 💡 How to Use This Repo
-1. **Clone** the repository and explore the `/projects` directory for starter notebooks, a simple example script, and API outlines.
-2. **Run** the sample Jupyter notebooks and `projects/simple_example.py` to generate personalized astrological reports.
+1. **Clone** the repository and explore the `projects` directory for starter notebooks, a simple example script, and API outlines.  
+2. **Run** the sample Jupyter notebooks and `projects/simple_example.py` to generate personalized astrological reports.  
 3. **Contribute** new modules, improvements, or creative experiments via Pull Requests.
 
 ```bash
