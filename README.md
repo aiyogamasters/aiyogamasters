@@ -32,7 +32,7 @@ AI Yoga Masters exists to make profound spiritual growth accessible to everyone 
 > 3. Secure pre‑seed funding & expand team.
 
 ## 💡 How to Use This Repo
-1. **Clone** the repository and explore the `/projects` directory for starter notebooks, data schemas, and API examples.
+1. **Clone** the repository and explore the `/projects` directory (under construction) for starter notebooks, data schemas, and API examples.
 2. **Run** the sample Jupyter notebooks to generate personalized astrological reports.
 3. **Contribute** new modules, improvements, or creative experiments via Pull Requests.
 
