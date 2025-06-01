@@ -53,4 +53,7 @@ This project is released under the **MIT License**. See `LICENSE` for details.
 ## 🌈 Acknowledgements
 Infinite gratitude to the global yoga lineage, open‑source communities, and the creators of AI technologies that make this vision possible.
 
+## ⚠️ Disclaimer
+The content in this repository is provided for informational purposes only and is not a substitute for professional medical or spiritual advice. Any astrological insights or wellness suggestions are to be applied at your own discretion. The contributors disclaim all liability for outcomes that arise from relying on or implementing this information.
+
 > **May every line of code, every breath, and every beat lead humanity closer to truth, freedom, and unconditional love.**
