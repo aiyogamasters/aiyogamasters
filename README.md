@@ -33,8 +33,9 @@ AI Yoga Masters exists to make profound spiritual growth accessible to everyone 
 
 ## 💡 How to Use This Repo
 1. **Clone** the repository and explore the `projects` directory for starter notebooks, a simple example script, and API outlines.  
-2. **Run** the sample Jupyter notebooks and `projects/simple_example.py` to generate personalized astrological reports.  
-3. **Contribute** new modules, improvements, or creative experiments via Pull Requests.
+2. **Run** the sample Jupyter notebooks and `projects/simple_example.py` to generate personalized astrological reports.
+3. **Explore** the evolving music pipeline in `projects/music_pipeline.py` \- this feature is still under construction.
+4. **Contribute** new modules, improvements, or creative experiments via Pull Requests.
 
 ```bash
 # clone the universe
